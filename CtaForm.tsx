@@ -1,4 +1,4 @@
-export default function CtaForm({
+export default function components/CtaForm.tsx({
   label = "Réserver mon accès fondateur",
 }: {
   label?: string;
